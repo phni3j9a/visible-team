@@ -1,0 +1,12 @@
+{
+  "name": "visible-team",
+  "displayName": "VisibleTeam for herdr",
+  "description": "Orchestrates user-configurable Codex models in visible herdr panes, coordinated by a Claude Code or Codex Main.",
+  "author": {
+    "name": "phni3j9a",
+    "url": "https://github.com/phni3j9a"
+  },
+  "repository": "https://github.com/phni3j9a/visible-team",
+  "license": "MIT",
+  "keywords": ["herdr", "codex", "orchestration", "review"]
+}

@@ -1,0 +1,7 @@
+interface:
+  display_name: "VisibleTeam for herdr"
+  short_description: "Visible Codex teams with configurable models in herdr"
+  default_prompt: "Use $visible-team:visible-team to develop this project with visible Codex workers and independent review."
+
+policy:
+  allow_implicit_invocation: false
